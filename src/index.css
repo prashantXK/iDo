@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    --tw-bg-opacity: 1;
+    background-color: rgb(223, 211, 211)
+}
+
+.todo-light {
+    background-color: #fff;
+    color: #000;
+  }
+  
+  .todo-dark {
+    background-color: #444;
+    color: #fff;
+  }
+  
+  .navbar-light {
+    background-color: #f0f0f0;
+    color: #000;
+  }
+  
+  .navbar-dark {
+    background-color: #222;
+    color: #fff;
+  }
+  
